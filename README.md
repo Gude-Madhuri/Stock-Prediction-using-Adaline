@@ -1,5 +1,7 @@
 # Stock-Prediction-using-Adaline
 STOCK PRICE PREDICTION-CLASSIFICATION USING ADALINE  with an Accuracy of 75%.
+
+
 ABSTRACT:
 An attention grabbing and also an important field by the business sector, now-a-days is obviously the Stock Market.
 Here, we are trying to classify the Stock prices into two classes, whether the prices are going to increase or decrease the next day. 
